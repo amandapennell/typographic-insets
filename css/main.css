@@ -86,7 +86,7 @@ footer {
  ##########################################################
 */
 
-main>p:first-child::first-letter {
+main > p:first-child::first-letter {
   color: #f2f2f2;
   float: left;
   font-size: 5rem;
@@ -98,7 +98,6 @@ main>p:first-child::first-letter {
   text-align: center;
   margin: 6px;
 }
-
 
 figure {
   float: right;
